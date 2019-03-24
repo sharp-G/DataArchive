@@ -1,0 +1,7 @@
+
+format of aggregation.txt (all traffic over different 5 minutes): 
+
+Flows Flows_tcp Flows_udp Flows_icmp Flows_other Packets Packets_tcp Packets_udp Packets_icmp Packets_other Bytes Bytes_tcp Bytes_udp Bytes_icmp Bytes_other Sequence_failures
+
+
+
